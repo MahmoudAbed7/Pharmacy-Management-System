@@ -1,0 +1,9 @@
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\bin\Release\PharmacyBusinessLayer.dll
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\bin\Release\PharmacyBusinessLayer.pdb
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\bin\Release\PharmacyDataAccessLayer.dll
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\bin\Release\PharmacyDataAccessLayer.pdb
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\obj\Release\PharmacyBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\obj\Release\PharmacyBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\obj\Release\Pharmacy.F37C6835.Up2Date
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\obj\Release\PharmacyBusinessLayer.dll
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyBusinessLayer\obj\Release\PharmacyBusinessLayer.pdb

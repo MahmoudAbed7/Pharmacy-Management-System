@@ -1,0 +1,6 @@
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.dll
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\bin\Debug\PharmacyDataAccessLayer.pdb
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.dll
+C:\Users\mahmo\source\repos\PharmacySystem\PharmacyDataAccessLayer\obj\Debug\PharmacyDataAccessLayer.pdb
