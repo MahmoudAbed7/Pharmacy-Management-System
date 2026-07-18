@@ -1,0 +1,2 @@
+# Pharmacy Management System
+A comprehensive desktop-based Pharmacy Management System developed using **C#**, **WinForms**, **ADO.NET**, and **SQL Server** following a **3-Tier Architecture**.  The system simulates a real-world pharmacy environment by managing customers, products, inventory, sales, shopping carts, user permissions, and financial transactions while ensuring data consistency using SQL Server Transactions and Stored Procedures.
