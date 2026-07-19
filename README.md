@@ -199,61 +199,61 @@ If any operation fails, SQL Server automatically performs a rollback.
 
 ## Login
 
-![Login](Screenshots/Images/Login.png)
-![Login](Images/Sign_In.png)
+![Login](PharmacySystem/Images/Login.png)
+![Login](PharmacySystem/Images/Sign_In.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](Images/Dashboards.png)
-![Dashboard](Images/DashboardMenu.png)
+![Dashboard](PharmacySystem/Images/Dashboards.png)
+![Dashboard](PharmacySystem/Images/DashboardMenu.png)
 
 ---
 
 ## Products
 
-![Products](Images/AddProducts.png)
-![Products](Images/ProductsMenu.png)
-![Products](Images/ProductMenuForCustomers.png)
-![Products](Images/ListProducts.png)
-![Products](Images/FilterProducts.png)
-![Products](Images/ProductDetails.png)
+![Products](PharmacySystem/Images/AddProducts.png)
+![Products](PharmacySystem/Images/ProductsMenu.png)
+![Products](PharmacySystem/Images/ProductMenuForCustomers.png)
+![Products](PharmacySystem/Images/ListProducts.png)
+![Products](PharmacySystem/Images/FilterProducts.png)
+![Products](PharmacySystem/Images/ProductDetails.png)
 
 ---
 
 ## Customers
 
-![Customers](Images/ListCustomers.png)
-![Customers](Images/CustomerAddBalance.png)
+![Customers](PharmacySystem/Images/ListCustomers.png)
+![Customers](PharmacySystem/Images/CustomerAddBalance.png)
 
 ---
 
 ## Shopping Cart
 
-![Shopping Cart](Images/EmptyCart.png)
-![Shopping Cart](Images/CartItems.png)
-![Shopping Cart](Images/DeleteFromCart.png)
-![Shpping Cart](Images/IncreaseItemQty.png)
+![Shopping Cart](PharmacySystem/Images/EmptyCart.png)
+![Shopping Cart](PharmacySystem/Images/CartItems.png)
+![Shopping Cart](PharmacySystem/Images/DeleteFromCart.png)
+![Shpping Cart](PharmacySystem/Images/IncreaseItemQty.png)
 
 ---
 
 ## Checkout
 
-![Checkout](Images/Checkout.png)
+![Checkout](PharmacySystem/Images/Checkout.png)
 
 
 ---
 
 ## Sales
 
-![Sales](Images/SalesHistory.png)
+![Sales](PharmacySystem/Images/SalesHistory.png)
 
 ---
 
 # 🗂 Database Diagram
 
-![Database Diagram](Images/ERD.png)
+![Database Diagram](PharmacySystem/Images/ERD.png)
 
 ---
 
