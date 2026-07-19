@@ -256,14 +256,14 @@ If any operation fails, SQL Server automatically performs a rollback.
 
 ## Dashboard
 
-![Dashboard](PharmacySystem/Images/Dashboards.png)
+![Dashboard](PharmacySystem/Images/Dashboard.png)
 ![Dashboard](PharmacySystem/Images/DashboardMenu.png)
 
 ---
 
 ## Products
 
-![Products](PharmacySystem/Images/AddProducts.png)
+![Products](PharmacySystem/Images/AddProduct.png)
 ![Products](PharmacySystem/Images/ProductsMenu.png)
 ![Products](PharmacySystem/Images/ProductMenuForCustomers.png)
 ![Products](PharmacySystem/Images/ListProducts.png)
@@ -283,7 +283,7 @@ If any operation fails, SQL Server automatically performs a rollback.
 
 ![Shopping Cart](PharmacySystem/Images/EmptyCart.png)
 ![Shopping Cart](PharmacySystem/Images/CartItems.png)
-![Shopping Cart](PharmacySystem/Images/DeleteFromCart.png)
+![Shopping Cart](PharmacySystem/Images/DeleteItemFromCart.png)
 ![Shpping Cart](PharmacySystem/Images/IncreaseItemQty.png)
 
 ---
