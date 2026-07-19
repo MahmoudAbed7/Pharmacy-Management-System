@@ -199,49 +199,61 @@ If any operation fails, SQL Server automatically performs a rollback.
 
 ## Login
 
-(Add Screenshot)
+![Login](Images/Login.png)
+![Login](Images/Sign_In.png)
 
 ---
 
 ## Dashboard
 
-(Add Screenshot)
+![Dashboard](Images/Dashboards.png)
+![Dashboard](Images/DashboardMenu.png)
 
 ---
 
 ## Products
 
-(Add Screenshot)
+![Products](Images/AddProducts.png)
+![Products](Images/ProductsMenu.png)
+![Products](Images/ProductMenuForCustomers.png)
+![Products](Images/ListProducts.png)
+![Products](Images/FilterProducts.png)
+![Products](Images/ProductDetails.png)
 
 ---
 
 ## Customers
 
-(Add Screenshot)
+![Customers](Images/ListCustomers.png)
+![Customers](Images/CustomerAddBalance.png)
 
 ---
 
 ## Shopping Cart
 
-(Add Screenshot)
+![Shopping Cart](Images/EmptyCart.png)
+![Shopping Cart](Images/CartItems.png)
+![Shopping Cart](Images/DeleteFromCart.png)
+![Shpping Cart](Images/IncreaseItemQty.png)
 
 ---
 
 ## Checkout
 
-(Add Screenshot)
+![Checkout](Images/Checkout.png)
+
 
 ---
 
 ## Sales
 
-(Add Screenshot)
+![Sales](Images/SalesHistory.png)
 
 ---
 
 # 🗂 Database Diagram
 
-(Add ERD Image)
+![Database Diagram](Images/ERD.png)
 
 ---
 
