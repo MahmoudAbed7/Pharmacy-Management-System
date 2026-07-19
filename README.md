@@ -199,7 +199,7 @@ If any operation fails, SQL Server automatically performs a rollback.
 
 ## Login
 
-![Login](Images/Login.png)
+![Login](Screenshots/Images/Login.png)
 ![Login](Images/Sign_In.png)
 
 ---
