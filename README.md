@@ -126,7 +126,57 @@ This separation improves maintainability, scalability, and code organization.
 - GitHub
 
 ---
+# ⚙️ How to Run
 
+### Prerequisites
+
+- Visual Studio 2022
+- SQL Server
+- .NET Framework 4.8
+
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/YourUsername/PharmacyManagementSystem.git
+```
+
+2. Restore the database
+
+Run:
+
+```
+Database/Pharmacy.sql
+```
+
+using SQL Server Management Studio.
+
+3. Update the connection string
+
+Open
+
+```
+App.config
+```
+
+and replace:
+
+```xml
+Data Source=YOUR_SERVER_NAME;
+Initial Catalog=Pharmacy;
+Integrated Security=True;
+```
+
+with your SQL Server instance.
+
+4. Build the solution.
+
+5. Run the application.
+
+
+
+---
 # 📂 Project Structure
 
 ```
